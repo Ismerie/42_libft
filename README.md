@@ -1,7 +1,9 @@
 # 42_libft
+
+## 💡 About the project
 A library of usual functions which will be useful for future projects
 
-## Usage
+## 🛠️ Usage
 
 ``make`` without bonus functions.
 
