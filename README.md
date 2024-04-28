@@ -69,7 +69,7 @@ Fonctions pour manipuler les listes :
 ## 🛠️ Usage
 
 ### Exigence
-La fonction est écrite en langage C et nécessite donc le **```gcc``` compilateur**.
+Les fonctions sont écrites en langage C et nécessite donc le **```gcc``` compilateur**.
 
 ### Instructions
 #### 1. Compilation de la bibliothèque
