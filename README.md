@@ -14,6 +14,7 @@ Fonctions pour vérifier et manipuler les caractères :
 - ft_toupper
 - ft_tolower
 
+
 Fonctions pour manipuler les strings :
 - ft_strlen
 - ft_strlcpy
@@ -29,6 +30,7 @@ Fonctions pour manipuler les strings :
 - ft_strmapi
 - ft_striteri
 
+
 Fonctions pour manipuler la mémoire :
 - ft_calloc
 - ft_memset
@@ -39,15 +41,18 @@ Fonctions pour manipuler la mémoire :
 - ft_memcmp
 - ft_strdup
 
+
 Fonctions pour les nombres :
 - ft_atoi
 - ft_itoa
+
 
 Fonctions pour écrire dans un descripteur de fichier :
 - ft_putchar_fd
 - ft_putstr_fd
 - ft_putendl_fd
 - ft_putnbr_fd
+
 
 Fonctions pour manipuler les listes :
 - ft_lstnew
