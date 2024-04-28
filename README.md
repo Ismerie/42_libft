@@ -68,8 +68,22 @@ Fonctions pour manipuler les listes :
 
 ## 🛠️ Usage
 
-Pour compiler utilisez la commande : \
-``make`` pour compiler les fonctions obligatoires 
+### Exigence
+La fonction est écrite en langage C et nécessite donc le **```gcc``` compilateur**.
 
-ou :  
-``make bonus`` pour compiler avec les fonctions bonus.
+### Instructions
+#### 1. Compilation de la bibliothèque
+Pour compiler, accédez au chemin de la bibliothèque et exécutez : 
+```
+$ make
+```
+ou pour compiler avec les fonctions bonus pour manipuler les listes : 
+```
+$ make bonus
+```
+
+#### 2. L'utiliser dans votre code
+Pour utiliser les fonctions de la bibliothèque dans votre code, incluez simplement son en-tête : 
+```
+#indlude "ft_libft.h"
+```
