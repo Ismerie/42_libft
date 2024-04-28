@@ -1,8 +1,10 @@
 # 42_libft
+
 Création d'une bibliothèque qui contient les fonctions standard de la programmation en C.
 Cette bibliothèque sera utilisée dans les prochains projets de 42.
 
 ## Fonctions incluses
+
 Fonctions pour vérifier et manipuler les caractères :
 - ft_isalpha
 - ft_isdigit
@@ -58,7 +60,9 @@ Fonctions pour manipuler les listes :
 - ft_lstiter
 - ft_lstmap
 
+
 ## 🛠️ Usage
+
 Pour compiler utilisez la commande : 
 ``make`` pour compiler les fonctions obligatoires
 
