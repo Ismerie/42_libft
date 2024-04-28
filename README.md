@@ -85,5 +85,5 @@ $ make bonus
 #### 2. L'utiliser dans votre code
 Pour utiliser les fonctions de la bibliothèque dans votre code, incluez simplement son en-tête : 
 ```
-#indlude "ft_libft.h"
+#indlude "libft.h"
 ```
