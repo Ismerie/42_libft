@@ -13,7 +13,7 @@ Fonctions pour vérifier et manipuler les caractères :
 - ft_isprint
 - ft_toupper
 - ft_tolower
-\
+ \
 
 Fonctions pour manipuler les strings :
 - ft_strlen
@@ -29,7 +29,7 @@ Fonctions pour manipuler les strings :
 - ft_split
 - ft_strmapi
 - ft_striteri
-\
+ \
 
 Fonctions pour manipuler la mémoire :
 - ft_calloc
@@ -40,19 +40,19 @@ Fonctions pour manipuler la mémoire :
 - ft_memchr
 - ft_memcmp
 - ft_strdup
-\
+ \
 
 Fonctions pour les nombres :
 - ft_atoi
 - ft_itoa
-\
+ \
 
 Fonctions pour écrire dans un descripteur de fichier :
 - ft_putchar_fd
 - ft_putstr_fd
 - ft_putendl_fd
 - ft_putnbr_fd
-\
+ \
 
 Fonctions pour manipuler les listes :
 - ft_lstnew
@@ -64,12 +64,12 @@ Fonctions pour manipuler les listes :
 - ft_lstclear
 - ft_lstiter
 - ft_lstmap
-\
+ \
 
 ## 🛠️ Usage
 
 Pour compiler utilisez la commande : \
-``make`` pour compiler les fonctions obligatoires\
+``make`` pour compiler les fonctions obligatoires \
 
-ou : \
+ou :  \
 ``make bonus`` pour compiler avec les fonctions bonus.
